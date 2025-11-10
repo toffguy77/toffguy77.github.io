@@ -177,6 +177,15 @@ a:hover, a:focus {
   flex-wrap: wrap;
 }
 
+.hero-title {
+  font-size: 1.4rem;
+  color: var(--gold);
+  font-weight: 600;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
 /* Sections */
 .section {
   padding: 1.5rem 0;
@@ -257,6 +266,45 @@ ul.luxe-list li:last-child {
   width: 1.2rem;
 }
 
+/* Impact Dashboard */
+.impact-dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 3rem 0;
+  padding: 2rem 0;
+}
+
+.impact-card {
+  background: linear-gradient(135deg, rgba(201, 169, 110, 0.08), rgba(201, 169, 110, 0.03));
+  border: 1px solid var(--dark-border);
+  border-radius: 12px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.impact-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(201, 169, 110, 0.1);
+}
+
+.impact-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--gold);
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+
+.impact-label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
 /* Hide hero overlay completely */
 .page__hero--overlay {
   display: none;
@@ -278,6 +326,17 @@ ul.luxe-list li:last-child {
   
   h1 { font-size: 2rem; }
   .hero .lead { font-size: 1.1rem; }
+  .hero-title { font-size: 1.1rem; }
+  
+  .impact-dashboard {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  
+  .impact-number {
+    font-size: 2rem;
+  }
   
   .section {
     padding: 2rem 0;

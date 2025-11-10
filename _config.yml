@@ -1,7 +1,7 @@
-title: "Дмитрий Спасский — IDP Director"
-name: "Дмитрий Спасский"
-lang: ru
-locale: ru_RU
+title: "Dmitry Spassky — Chief Technology & Digital Transformation Officer"
+name: "Dmitry Spassky"
+lang: en
+locale: en_US
 url: "https://toffguy77.github.io"
 baseurl: ""
 repository: "toffguy77/toffguy77.github.io"
@@ -23,7 +23,7 @@ plugins:
 
 # SEO
 title_separator: "—"
-description: "Директор по IDP (Internal Developer Platform). Создаю платформы разработки, которые ускоряют команды и повышают качество DevOps в банковской сфере."
+description: "Chief Technology & Digital Transformation Officer. Driving $100M+ digital transformations across Banking, Cloud & AI industries. 500+ engineering teams, 75% faster delivery cycles."
 
 # Footer
 footer:
@@ -37,9 +37,9 @@ footer:
 
 # Author & social
 author:
-  name: "Дмитрий Спасский"
-  bio: "Директор по IDP. Руководитель платформ разработок в Raiffeisen Bank Russia."
-  location: "Москва, Россия"
+  name: "Dmitry Spassky"
+  bio: "CTO & Digital Transformation Officer. Leading enterprise-scale technology transformations."
+  location: "Moscow, Russia | Global Remote"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
