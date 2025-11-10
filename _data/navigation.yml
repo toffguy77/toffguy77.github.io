@@ -1,0 +1,13 @@
+main:
+  - title: "Обо мне"
+    url: "/#about"
+  - title: "Экспертиза"
+    url: "/#expertise"
+  - title: "Достижения"
+    url: "/#achievements"
+  - title: "Сотрудничество"
+    url: "/#collaboration"
+  - title: "Контакты"
+    url: "/#contacts"
+  - title: "EN"
+    url: "/en/"

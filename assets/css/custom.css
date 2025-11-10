@@ -1,0 +1,94 @@
+/* Luxury dark theme refinements */
+
+/* Typography */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: 0.01em;
+}
+
+h1, h2, h3, h4, .page__title {
+  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  font-weight: 700;
+}
+
+/* Gold accent */
+a { color: #d4af37; }
+a:hover, a:focus { color: #e0bf61; }
+
+/* Masthead */
+.masthead {
+  background: #0b0b0c;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.25);
+}
+.masthead .greedy-nav a {
+  color: #eaeaea;
+}
+.masthead .greedy-nav a:hover { color: #d4af37; }
+
+/* Footer */
+.page__footer {
+  background: #0b0b0c;
+  border-top: 1px solid rgba(212, 175, 55, 0.18);
+}
+
+/* Buttons */
+.btn, .btn--primary {
+  background-color: #d4af37;
+  border-color: #d4af37;
+  color: #0b0b0c !important;
+}
+.btn:hover {
+  background-color: #e0bb5d;
+  border-color: #e0bb5d;
+}
+
+/* Sections */
+.section {
+  padding: 2.5rem 0;
+  border-top: 1px solid rgba(212, 175, 55, 0.12);
+}
+.section-title {
+  color: #eaeaea;
+  border-left: 4px solid #d4af37;
+  padding-left: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+/* Hero */
+.hero {
+  padding: 2.5rem 0 1.25rem;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.12);
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+.hero .lead {
+  font-size: 1.18rem;
+  color: #cfcfcf;
+}
+.hero .cta {
+  margin-top: 0.75rem;
+  gap: 0.75rem;
+}
+.hero-portrait {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid rgba(212, 175, 55, 0.35);
+  box-shadow: 0 10px 24px rgba(0,0,0,.35);
+}
+.hero-copy { min-width: 260px; max-width: 900px; }
+
+/* Lists */
+ul.luxe-list { margin: 0; padding-left: 1.25rem; }
+ul.luxe-list li { margin: 0.4rem 0; }
+
+/* Contact panel */
+.contact-panel {
+  background: linear-gradient(180deg, rgba(212, 175, 55, 0.08), rgba(212, 175, 55, 0.02));
+  padding: 1rem 1.25rem;
+  border: 1px solid rgba(212, 175, 55, 0.20);
+  border-radius: 10px;
+}

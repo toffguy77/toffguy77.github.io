@@ -1,0 +1,69 @@
+title: "Дмитрий Спасский — IDP Director"
+name: "Дмитрий Спасский"
+lang: ru
+locale: ru_RU
+url: "https://toffguy77.github.io"
+baseurl: ""
+repository: "toffguy77/toffguy77.github.io"
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+
+# Build
+markdown: kramdown
+timezone: Europe/Moscow
+permalink: /:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# SEO
+title_separator: "—"
+description: "Директор по IDP (Internal Developer Platform). Создаю платформы разработки, которые ускоряют команды и повышают качество DevOps в банковской сфере."
+
+# Author & social
+author:
+  name: "Дмитрий Спасский"
+  bio: "Директор по IDP. Руководитель платформ разработок в Raiffeisen Bank Russia."
+  location: "Москва, Россия"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/dspassky/"
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "https://t.me/ya_thatguy"
+    - label: "Телефон"
+      icon: "fas fa-phone"
+      url: "tel:+79163696900"
+
+# Navigation
+collections:
+  posts:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      classes: wide
+      sidebar: false
+      toc: false
+
+# Excludes
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - package.json
+  - package-lock.json
