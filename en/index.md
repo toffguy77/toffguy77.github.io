@@ -7,11 +7,7 @@ subtitle: "Director of Internal Developer Platform (IDP) — Raiffeisen Bank Rus
 description: "I build internal developer platforms that make product teams faster and improve DevOps maturity."
 author_profile: false
 image: "/assets/images/portrait.jpg"
-header:
-  overlay_image: "/assets/images/hero-wide.jpg"
-  overlay_color: "#000000"
-  overlay_filter: "0.25"
-  caption: ""
+
 permalink: "/en/"
 ---
 

@@ -6,11 +6,7 @@ subtitle: "Директор по Internal Developer Platform (IDP) — Raiffeise
 description: "Создаю и развиваю внутренние платформы разработки (IDP), повышающие эффективность команд и зрелость DevOps."
 author_profile: false
 image: "/assets/images/portrait.jpg"
-header:
-  overlay_image: "/assets/images/hero-wide.jpg"
-  overlay_color: "#000000"
-  overlay_filter: "0.25"
-  caption: ""
+
 permalink: "/"
 ---
 
