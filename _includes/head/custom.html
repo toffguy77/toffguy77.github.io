@@ -1,8 +1,22 @@
-<!-- Custom fonts and CSS for luxury look -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<!-- Custom styles -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-<!-- Analytics: Plausible (no cookies) -->
-<script defer data-domain="toffguy77.github.io" src="https://plausible.io/js/plausible.js"></script>
+<!-- Preload critical fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+<link rel="shortcut icon" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+
+<!-- Meta tags for better social sharing -->
+<meta property="og:image" content="{{ site.url }}/assets/images/portrait.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}/assets/images/portrait.jpg">
+
+<!-- Performance optimizations -->
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0b">
