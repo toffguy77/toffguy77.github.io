@@ -26,6 +26,16 @@ plugins:
 title_separator: "—"
 description: "Директор по IDP (Internal Developer Platform). Создаю платформы разработки, которые ускоряют команды и повышают качество DevOps в банковской сфере."
 
+# Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/dspassky/"
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "https://t.me/ya_thatguy"
+
 # Author & social
 author:
   name: "Дмитрий Спасский"
@@ -57,6 +67,9 @@ defaults:
       classes: wide
       sidebar: false
       toc: false
+
+# Custom footer text
+copyright: "Создано 🤖 роботами и 👨‍💻 человеком на благо IT-сообщества • Powered by ☕ кофе и 💡 идеями"
 
 # Excludes
 exclude:
