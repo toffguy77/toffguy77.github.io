@@ -213,10 +213,11 @@ ul.luxe-list {
 }
 
 ul.luxe-list li {
-  padding: 0.4rem 0;
+  padding: 0.2rem 0;
   border-bottom: 1px solid rgba(201, 169, 110, 0.08);
   position: relative;
   padding-left: 1.5rem;
+  line-height: 1.4;
 }
 
 ul.luxe-list li::before {
