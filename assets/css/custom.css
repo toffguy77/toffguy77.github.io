@@ -213,7 +213,7 @@ ul.luxe-list {
 }
 
 ul.luxe-list li {
-  padding: 0.75rem 0;
+  padding: 0.4rem 0;
   border-bottom: 1px solid rgba(201, 169, 110, 0.08);
   position: relative;
   padding-left: 1.5rem;
@@ -252,7 +252,7 @@ ul.luxe-list li:last-child {
 
 /* Header overlay */
 .page__hero--overlay {
-  background-position: center !important;
+  background-position: center top !important;
   background-size: cover !important;
 }
 
