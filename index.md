@@ -84,7 +84,7 @@ permalink: "/"
     <li><strong>Русский:</strong> родной</li>
     <li><strong>Английский:</strong> профессиональный уровень</li>
     <li><strong>Испанский:</strong> начальный</li>
-    <li><strong>Менторинг:</strong> активная практика развития специалистов</li>
+    <li><strong>Менторинг:</strong> <a href="https://getmentor.dev/mentor/spasskiy-dmitriy-3935" target="_blank" rel="noopener">активная практика развития специалистов</a></li>
   </ul>
 </div>
 
@@ -115,6 +115,7 @@ permalink: "/"
     <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/dspassky/" target="_blank" rel="noopener">LinkedIn</a></p>
     <p><i class="fab fa-telegram"></i> <a href="https://t.me/ya_thatguy" target="_blank" rel="noopener">Telegram</a></p>
     <p><i class="fas fa-phone"></i> <a href="tel:+79163696900">+7 (916) 369‑69‑00</a></p>
+    <p><i class="fas fa-user-graduate"></i> <a href="https://getmentor.dev/mentor/spasskiy-dmitriy-3935" target="_blank" rel="noopener">Менторинг</a></p>
   </div>
 </div>
 
