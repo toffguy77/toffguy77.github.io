@@ -1,6 +1,11 @@
 <div class="page__footer">
   <footer>
     {% include_cached footer/custom.html %}
+    
+    <div class="page__footer-copyright">
+      &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Создано 🤖 роботами и 👨💻 человеком на благо IT-сообщества • Powered by ☕ кофе и 💡 идеями
+    </div>
+    
     {% if site.data.ui-text[site.locale].follow_label or site.footer.links %}
       <div class="page__footer-follow">
         <ul class="social-icons">
@@ -18,9 +23,5 @@
         </ul>
       </div>
     {% endif %}
-
-    <div class="page__footer-copyright">
-      &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Создано 🤖 роботами и 👨💻 человеком на благо IT-сообщества • Powered by ☕ кофе и 💡 идеями
-    </div>
   </footer>
 </div>
