@@ -15,7 +15,7 @@ permalink: "/en/"
   <div class="hero-copy">
     <h1>Dmitry Spassky</h1>
     <p class="hero-title">Director of Technology & Digital Transformation</p>
-    <p class="lead">Director of Internal Developer Platform at Raiffeisen Bank Russia. I design and evolve platforms that dramatically improve development team efficiency and DevOps process quality in large organizations.</p>
+    <p class="lead">Director of Internal Developer Platform at Raiffeisenbank Russia. I design and evolve platforms that dramatically improve development team efficiency and DevOps process quality in large organizations.</p>
     <div class="cta">
       <a class="btn btn--primary" href="https://t.me/ya_thatguy" target="_blank" rel="noopener">Contact on Telegram</a>
       <a class="btn" href="https://www.linkedin.com/in/dspassky/" target="_blank" rel="noopener">LinkedIn</a>
@@ -46,10 +46,10 @@ permalink: "/en/"
 <div id="about" class="section">
   <h2 class="section-title">About the specialist</h2>
   <p>
-    <strong>Director of Internal Developer Platform</strong> at Raiffeisen Bank Russia. I specialize in creating and evolving platforms that dramatically improve development team efficiency and DevOps process quality in large organizations.
+    <strong>Director of Internal Developer Platform</strong> at Raiffeisenbank Russia. I specialize in creating and evolving platforms that dramatically improve development team efficiency and DevOps process quality in large organizations.
   </p>
   <div class="contact-panel">
-    <p><strong>Current role:</strong> IDP Director, Raiffeisen Bank Russia</p>
+    <p><strong>Current role:</strong> IDP Director, Raiffeisenbank Russia</p>
     <p><strong>Previous experience:</strong> Search engines, public cloud, smart devices</p>
     <p><strong>Companies:</strong> Yandex, Yandex.Cloud, SberDevices</p>
     <p><strong>Expertise:</strong> Platform architecture, DevOps, team leadership, strategic planning</p>

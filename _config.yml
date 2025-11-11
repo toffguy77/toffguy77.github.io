@@ -1,4 +1,4 @@
-title: "Дмитрий Спасский — Директор по технологиям и цифровой трансформации"
+title: "Дмитрий Спасский"
 name: "Дмитрий Спасский"
 lang: ru
 locale: ru_RU
@@ -38,7 +38,7 @@ footer:
 # Author & social
 author:
   name: "Дмитрий Спасский"
-  bio: "Директор по IDP. Руководитель платформ разработки в Raiffeisen Bank Russia."
+  bio: "Директор по IDP. Руководитель платформ разработки в Raiffeisenbank Russia."
   location: "Москва, Россия"
   links:
     - label: "LinkedIn"

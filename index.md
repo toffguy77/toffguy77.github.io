@@ -14,7 +14,7 @@ permalink: "/"
   <div class="hero-copy">
     <h1>Дмитрий Спасский</h1>
     <p class="hero-title">Директор по технологиям и цифровой трансформации</p>
-    <p class="lead">Директор по IDP (Internal Developer Platform) и руководитель отдела платформ разработки в Raiffeisen Bank Russia. Создаю платформы, которые делают команды разработки быстрее, увереннее и эффективнее.</p>
+    <p class="lead">Директор по IDP (Internal Developer Platform) и руководитель отдела платформ разработки в Raiffeisenbank Russia. Создаю платформы, которые делают команды разработки быстрее, увереннее и эффективнее.</p>
     <div class="cta">
       <a class="btn btn--primary" href="https://t.me/ya_thatguy" target="_blank" rel="noopener">Связаться в Telegram</a>
       <a class="btn" href="https://www.linkedin.com/in/dspassky/" target="_blank" rel="noopener">LinkedIn</a>
@@ -25,11 +25,11 @@ permalink: "/"
 
 <div class="impact-dashboard">
   <div class="impact-card">
-    <div class="impact-number">500+</div>
-    <div class="impact-label">Разработчиков на платформе</div>
+    <div class="impact-number">200+</div>
+    <div class="impact-label">Команд разработки на платформе</div>
   </div>
   <div class="impact-card">
-    <div class="impact-number">25+</div>
+    <div class="impact-number">120+</div>
     <div class="impact-label">Специалистов в команде</div>
   </div>
   <div class="impact-card">
@@ -45,10 +45,10 @@ permalink: "/"
 <div id="about" class="section">
   <h2 class="section-title">О специалисте</h2>
   <p>
-    <strong>Директор по Internal Developer Platform</strong> в Raiffeisen Bank Russia. Специализируюсь на создании и развитии платформ, которые кардинально повышают эффективность команд разработки и качество DevOps-процессов в крупных организациях.
+    <strong>Директор по Internal Developer Platform</strong> в Raiffeisenbank Russia. Специализируюсь на создании и развитии платформ, которые кардинально повышают эффективность команд разработки и качество DevOps-процессов в крупных организациях.
   </p>
   <div class="contact-panel">
-    <p><strong>Текущая роль:</strong> Директор по IDP, Raiffeisen Bank Russia</p>
+    <p><strong>Текущая роль:</strong> Директор по IDP, Raiffeisenbank Russia</p>
     <p><strong>Предыдущий опыт:</strong> Поисковые системы, публичные облака, умные устройства</p>
     <p><strong>Компании:</strong> Yandex, Yandex.Cloud, SberDevices</p>
     <p><strong>Экспертиза:</strong> Платформенная архитектура, DevOps, управление командами, стратегическое планирование</p>
@@ -58,7 +58,7 @@ permalink: "/"
 <div id="achievements" class="section">
   <h2 class="section-title">Ключевые достижения</h2>
   <ul class="luxe-list">
-    <li>Построил Internal Developer Platform, обслуживающую 500+ разработчиков</li>
+    <li>Построил Internal Developer Platform, обслуживающую 200+ продуктовых команд</li>
     <li>Сократил время доставки фичей в продакшн с недель до дней</li>
     <li>Создал отдел платформ разработки с нуля и масштабировал до 25+ специалистов</li>
     <li>Внедрил современные DevOps-практики в строго регулируемой банковской среде</li>
