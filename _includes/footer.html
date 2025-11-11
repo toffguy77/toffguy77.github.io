@@ -1,0 +1,26 @@
+<div class="page__footer">
+  <footer>
+    {% include_cached footer/custom.html %}
+    {% if site.data.ui-text[site.locale].follow_label or site.footer.links %}
+      <div class="page__footer-follow">
+        <ul class="social-icons">
+          {% if site.data.ui-text[site.locale].follow_label %}
+            <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+          {% endif %}
+
+          {% if site.footer.links %}
+            {% for link in site.footer.links %}
+              {% if link.label and link.url %}
+                <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </ul>
+      </div>
+    {% endif %}
+
+    <div class="page__footer-copyright">
+      &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Создано 🤖 роботами и 👨💻 человеком на благо IT-сообщества • Powered by ☕ кофе и 💡 идеями
+    </div>
+  </footer>
+</div>
