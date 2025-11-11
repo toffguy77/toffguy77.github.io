@@ -76,9 +76,12 @@ a:hover, a:focus {
   margin-top: 4rem;
 }
 
-/* Hide Feed link */
-.page__footer-follow .social-icons .fa-rss-square,
-.page__footer-follow .social-icons a[href*="feed"] {
+/* Hide standard footer elements */
+.page__footer-follow {
+  display: none;
+}
+
+.page__footer-copyright:not(:first-child) {
   display: none;
 }
 
