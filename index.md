@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Директор по технологиям и цифровой трансформации"
+title: "Спасский Дмитрий"
 description: "Директор по IDP и цифровой трансформации. Создаю платформы разработки, которые ускоряют команды и повышают качество DevOps в банковской сфере."
 author_profile: false
 image: "/assets/images/portrait.jpg"
